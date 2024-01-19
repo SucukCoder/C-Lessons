@@ -9,6 +9,8 @@
 		scanf("%d", &BirthYear);
 		
 		printf("You are %d years old.", Year - BirthYear);
-		
+
+		printf("\n"); //New line for a better view.
+
 		return 0;
 	}
